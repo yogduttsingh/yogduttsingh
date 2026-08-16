@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **Yogdutt63@gmail.com** For Collaboration/Project or Anything Else. 😊😊 
 - 🔭 **I’m currently working on:** vehicle2vehicle communication
--  🌱 **I’m currently learning:** Automatation
+- 🌱 **I’m currently learning:** Automatation
   <!-- 👯 **I’m looking to collaborate on:** Enter your project name and info - 🤔 **I’m looking for help with:** -->
 - 💬 **Ask me about:** Collaboration, Tech Support
 -📫 **How to reach me:** yogdutt63@gmail.com
@@ -96,24 +96,18 @@ Email Me 👉 ✉️ **Yogdutt63@gmail.com** For Collaboration/Project or Anythi
 </div>
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yogduttsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=yogduttsingh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yogduttsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📈 GitHub Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogduttsingh&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
+<!--# 🏆 GitHub Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=yogduttsingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
 
-</div>
+</div> -->
 
 ---
 
@@ -126,13 +120,13 @@ Email Me 👉 ✉️ **Yogdutt63@gmail.com** For Collaboration/Project or Anythi
 </div>
 
 
-# ⭐ Featured Projects
+<!--# ⭐ Featured Projects
 
 <div align="center">
 
 <!-- Replace repository names below with your actual repositories -->
 
-<a href="https://github.com/yogduttsingh/YOUR-V2V-REPOSITORY">
+<!--<a href="https://github.com/yogduttsingh/YOUR-V2V-REPOSITORY">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yogduttsingh&repo=YOUR-V2V-REPOSITORY&theme=tokyonight&hide_border=true" />
 </a>
 
@@ -140,13 +134,29 @@ Email Me 👉 ✉️ **Yogdutt63@gmail.com** For Collaboration/Project or Anythi
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yogduttsingh&repo=YOUR-AI-PROJECT&theme=tokyonight&hide_border=true" />
 </a>
 
-</div>
+</div> -->
 
 ---
 
+# 🚀 What I'm Currently Working On
+
 ## 🚗 Vehicle-to-Vehicle Communication
 
-**Real-time communication architecture for connected vehicles.**
+I'm currently working on a **Vehicle-to-Vehicle Communication System** focused on enabling vehicles to exchange information in real time.
+
+### 🎯 Possible Applications
+
+* 🚨 Collision Warning
+* 🚑 Emergency Vehicle Alerts
+* 🚦 Traffic Information Sharing
+* 📡 Real-Time Vehicle Communication
+* 🔄 Distributed Vehicle Data Exchange
+* 🤖 AI-Assisted Road Safety
+* 🛣️ Intelligent Transportation Systems
+
+### 🧠 Vision
+
+> Building technology that can make transportation **smarter, safer and more connected.**
 
 ### Technology
 
@@ -321,15 +331,3 @@ Exploring event-driven architectures using **Apache Kafka**.
 <!--                    END OF README                      -->
 
 <!-- ===================================================== -->
-
-```
-
-**Important:** In the `Featured Projects` and `Let's Connect` sections, replace only these placeholders:
-
-- `YOUR-V2V-REPOSITORY`
-- `YOUR-AI-PROJECT`
-- `YOUR-LINKEDIN-USERNAME`
-- `YOUR-MASTODON-USERNAME`
-
-The social section is now **icon-only**, so visitors won't see the raw profile URLs next to the icons.
-```
