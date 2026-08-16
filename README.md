@@ -1,21 +1,246 @@
 # 💫 Hi 👋, I'm Yog Dutt Singh
-**A passionate AI Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate AI Engineer || DevOps Engineer || Kafka Admin from India** 
 
-Email Me 👉 ✉️ **Yogdutt63@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** vehicle2vehicle communication 
-- 🌱 **I’m currently learning:** Automatation 
-<!-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** -->
+Email Me 👉 ✉️ **Yogdutt63@gmail.com** For Collaboration/Project or Anything Else. 😊😊 
+- 🔭 **I’m currently working on:** vehicle2vehicle communication
+-  🌱 **I’m currently learning:** Automatation
+  <!-- 👯 **I’m looking to collaborate on:** Enter your project name and info - 🤔 **I’m looking for help with:** -->
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** yogdutt63@gmail.com
-- 😄 **Pronouns:** Yog 
+-📫 **How to reach me:** yogdutt63@gmail.com
+- 😄 **Pronouns:** Yog
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yog Dutt Singh) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Yog Dutt Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogdutt63@gmail.com) 
+ 
+    
+# 🚀 What I'm Currently Working On
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🚗 Vehicle-to-Vehicle Communication
+
+I'm currently working on a **Vehicle-to-Vehicle Communication System** focused on enabling vehicles to exchange information in real time.
+
+### 🎯 Possible Applications
+
+* 🚨 Collision Warning
+* 🚑 Emergency Vehicle Alerts
+* 🚦 Traffic Information Sharing
+* 📡 Real-Time Vehicle Communication
+* 🔄 Distributed Vehicle Data Exchange
+* 🤖 AI-Assisted Road Safety
+* 🛣️ Intelligent Transportation Systems
+
+### 🧠 Vision
+
+> Building technology that can make transportation **smarter, safer and more connected.**
+
+---
+
+# 🧠 Areas of Interest
+
+<div align="center">
+
+| 🤖 Artificial Intelligence |  ☁️ DevOps | 📨 Distributed Systems |
+| :------------------------: | :--------: | :--------------------: |
+|      Machine Learning      | Automation |      Apache Kafka      |
+|        Deep Learning       |    CI/CD   |     Event Streaming    |
+|          AI Agents         |   Docker   |      Microservices     |
+|       Computer Vision      |    Cloud   |    Real-Time Systems   |
+|       Adversarial ML       |    Linux   |     Message Queues     |
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+</p>
+
+**Interested in:**
+
+`Machine Learning` `Deep Learning` `Computer Vision` `NLP` `AI Agents` `Adversarial ML`
+
+---
+
+## ⚙️ DevOps & Cloud
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws" />
+
+</p>
+
+**Interested in:**
+
+`Automation` `CI/CD` `Containerization` `Cloud Deployment` `Infrastructure`
+
+---
+
+## 📨 Event Streaming & Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=kafka,nodejs,mysql,mongodb" />
+
+</p>
+
+**Interested in:**
+
+`Apache Kafka` `Event Streaming` `Microservices` `Distributed Systems` `Real-Time Processing`
+
+---
+
+## 🔧 Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" />
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+<div align="center">
+
+<!-- Replace repository names below with your actual repositories -->
+
+<a href="https://github.com/yogduttsingh/YOUR-V2V-REPOSITORY">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yogduttsingh&repo=YOUR-V2V-REPOSITORY&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/yogduttsingh/YOUR-AI-PROJECT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yogduttsingh&repo=YOUR-AI-PROJECT&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🚗 Vehicle-to-Vehicle Communication
+
+**Real-time communication architecture for connected vehicles.**
+
+### Technology
+
+`Python` `AI/ML` `Networking` `Distributed Systems` `Kafka`
+
+### Core Ideas
+
+* Vehicle discovery
+* Real-time messaging
+* Emergency alerts
+* Collision detection
+* Data exchange
+* Event-driven communication
+* AI-assisted decision making
+
+---
+
+## 🤖 Artificial Intelligence Projects
+
+Projects and experiments involving:
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* AI Agents
+* Adversarial Machine Learning
+* Model Security
+* Intelligent Automation
+
+### Technology
+
+`Python` `TensorFlow` `PyTorch` `Scikit-Learn`
+
+---
+
+## ⚙️ Automation & DevOps Projects
+
+Exploring automation and infrastructure technologies.
+
+### Technology
+
+`Docker` `Linux` `Git` `GitHub` `CI/CD` `Cloud`
+
+---
+
+## 📨 Kafka & Event Streaming Projects
+
+Exploring event-driven architectures using **Apache Kafka**.
+
+### Concepts
+
+* Producers
+* Consumers
+* Topics
+* Partitions
+* Consumer Groups
+* Event Streaming
+* Real-Time Processing
+* Distributed Systems
+
+### Technology
+
+`Apache Kafka` `Java` `Python` `Microservices`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogduttsingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogduttsingh&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=yogduttsingh&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogduttsingh&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yogduttsingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
 
 <!-- Snake Game Repo View -->
 
@@ -24,19 +249,133 @@ Email Me 👉 ✉️ **Yogdutt63@gmail.com** For Collaboration/Project or Anythi
 </div>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yogduttsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yogduttsingh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yogduttsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📚 Currently Learning
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yogduttsingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```text
+                🧠 Artificial Intelligence
+                         │
+                         ▼
+                🤖 Machine Learning
+                         │
+                         ▼
+                    AI Agents
+                         │
+                         ▼
+                   ⚙️ Automation
+                         │
+                         ▼
+                    ☁️ DevOps
+                         │
+                         ▼
+                 ☁️ Cloud Computing
+                         │
+                         ▼
+               📨 Apache Kafka
+                         │
+                         ▼
+              🌐 Distributed Systems
+```
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yogduttsingh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=yogduttsingh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+## "Don't just learn technology. Build something with it."
+
+<br>
+
+💡 Idea
+ → 
+🧠 Learn
+ → 
+🛠️ Build
+ → 
+🧪 Test
+ → 
+🚀 Deploy
+ → 
+🔄 Improve
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" />
+</a>
+
+    
+
+<a href="https://mastodon.social/@YOUR-MASTODON-USERNAME">
+<img src="https://cdn.simpleicons.org/mastodon/6364FF" width="45" height="45" />
+</a>
+
+    
+
+<a href="mailto:yogdutt63@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" />
+</a>
+
+    
+
+<a href="https://github.com/yogduttsingh">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" />
+</a>
+
+<br><br>
+
+📧 **[yogdutt63@gmail.com](mailto:yogdutt63@gmail.com)**
+
+<br>
+
+💬 Open to collaborations, projects, AI/ML ideas and interesting technical discussions.
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yogduttsingh&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Code. Build. Automate. Repeat.
+
+### Thanks for visiting my profile! 🚀
+
+</div>
+
+<!-- ===================================================== -->
+
+<!--                    END OF README                      -->
+
+<!-- ===================================================== -->
+
+```
+
+**Important:** In the `Featured Projects` and `Let's Connect` sections, replace only these placeholders:
+
+- `YOUR-V2V-REPOSITORY`
+- `YOUR-AI-PROJECT`
+- `YOUR-LINKEDIN-USERNAME`
+- `YOUR-MASTODON-USERNAME`
+
+The social section is now **icon-only**, so visitors won't see the raw profile URLs next to the icons.
+```
