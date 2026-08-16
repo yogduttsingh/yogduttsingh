@@ -11,43 +11,6 @@ Email Me 👉 ✉️ **Yogdutt63@gmail.com** For Collaboration/Project or Anythi
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
  
     
-# 🚀 What I'm Currently Working On
-
-## 🚗 Vehicle-to-Vehicle Communication
-
-I'm currently working on a **Vehicle-to-Vehicle Communication System** focused on enabling vehicles to exchange information in real time.
-
-### 🎯 Possible Applications
-
-* 🚨 Collision Warning
-* 🚑 Emergency Vehicle Alerts
-* 🚦 Traffic Information Sharing
-* 📡 Real-Time Vehicle Communication
-* 🔄 Distributed Vehicle Data Exchange
-* 🤖 AI-Assisted Road Safety
-* 🛣️ Intelligent Transportation Systems
-
-### 🧠 Vision
-
-> Building technology that can make transportation **smarter, safer and more connected.**
-
----
-
-# 🧠 Areas of Interest
-
-<div align="center">
-
-| 🤖 Artificial Intelligence |  ☁️ DevOps | 📨 Distributed Systems |
-| :------------------------: | :--------: | :--------------------: |
-|      Machine Learning      | Automation |      Apache Kafka      |
-|        Deep Learning       |    CI/CD   |     Event Streaming    |
-|          AI Agents         |   Docker   |      Microservices     |
-|       Computer Vision      |    Cloud   |    Real-Time Systems   |
-|       Adversarial ML       |    Linux   |     Message Queues     |
-
-</div>
-
----
 
 # 🛠️ Tech Stack
 
@@ -112,6 +75,56 @@ I'm currently working on a **Vehicle-to-Vehicle Communication System** focused o
 </p>
 
 ---
+
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogduttsingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogduttsingh&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=yogduttsingh&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogduttsingh&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yogduttsingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 # ⭐ Featured Projects
 
@@ -200,54 +213,6 @@ Exploring event-driven architectures using **Apache Kafka**.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogduttsingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogduttsingh&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=yogduttsingh&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 GitHub Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogduttsingh&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yogduttsingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 
 # 📚 Currently Learning
 
@@ -315,17 +280,6 @@ Exploring event-driven architectures using **Apache Kafka**.
 </a>
 
     
-
-<a href="https://mastodon.social/@YOUR-MASTODON-USERNAME">
-<img src="https://cdn.simpleicons.org/mastodon/6364FF" width="45" height="45" />
-</a>
-
-    
-
-<a href="mailto:yogdutt63@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" />
-</a>
-
     
 
 <a href="https://github.com/yogduttsingh">
