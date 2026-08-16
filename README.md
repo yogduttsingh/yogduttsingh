@@ -79,28 +79,17 @@ Email Me 👉 ✉️ **Yogdutt63@gmail.com** For Collaboration/Project or Anythi
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogduttsingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogduttsingh&layout=compact&theme=tokyonight&hide_border=true" />
-
+<div align="center"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/apiusername=yogduttsingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogduttsingh&layout=compact&theme=tokyonight&hide_border=true" /> 
+  
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=yogduttsingh&theme=tokyonight&hide_border=true" />
-
+<div align="center"> 
+  <img src="https://streak-stats.demolab.com/?user=yogduttsingh&theme=tokyonight&hide_border=true" /> 
+  
 </div>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yogduttsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yogduttsingh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yogduttsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <!--# 🏆 GitHub Trophies
 
 <div align="center">
